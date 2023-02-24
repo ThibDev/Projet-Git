@@ -13,8 +13,9 @@
     height: 530px;
 }
 
-div{
+#album{
     width: 500px;
     height: 500px;
-    border-radius:30px ;
+    border-radius: 30px
+
 }
