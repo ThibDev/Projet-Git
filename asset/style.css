@@ -152,3 +152,24 @@ h1{
  #moins{
     padding-right: 50px;
  }
+
+ #billets{
+    border-bottom: 1px solid black;
+ }
+
+ #reglagetotal{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: center;
+ }
+
+ #casetotal{
+    border: 1px solid black;
+    padding: 20px;
+    margin-left: 16px;
+ }
+
+ #total{
+    border-bottom: 1px solid black;
+ }
