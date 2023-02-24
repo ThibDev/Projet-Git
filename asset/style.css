@@ -136,22 +136,27 @@
 #keyglock1{
     width: 100px;
     display: none;
+    cursor: pointer;
 }
 #acdc1{
     width: 100px;
     display: none;
+    cursor: pointer;
 }
 #louisamstrong1{
     width: 100px;
     display: none;
+    cursor: pointer;
 }
 #davidguetta1{
     width: 100px;
     display: none;
+    cursor: pointer;
 }
 #bobmarley1{
     width: 100px;
     display: none;
+    cursor: pointer;
 }
 #playlistpreferer{
     width: 100%;
