@@ -55,3 +55,219 @@
     height: 300px;
 }
 
+.conte:hover {
+    -ms-transform: scale(1.5);
+    
+    -webkit-transform: scale(1.5);
+    
+    transform: scale(1.5);
+}
+
+.trois{
+    color: yellow;
+}
+
+#imgsection1{
+    width: 100%;
+}
+
+
+#ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+#section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(173,41,41,1) 100%);
+    height: 530px;
+}
+#genremusique{
+    width: 100%;
+    justify-content: space-evenly;
+    display: flex;
+}
+.rap{
+    list-style: none;
+   border-bottom: solid;
+   border-width: 1px;
+   border-color: red;
+   cursor: pointer;
+}
+.rap:hover{
+    color: red;
+}
+#keyglock{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#acdc{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#louisamstrong{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#davidguetta{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#bobmarley{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#keyglock1{
+    width: 100px;
+    display: none;
+    cursor: pointer;
+}
+#acdc1{
+    width: 100px;
+    display: none;
+    cursor: pointer;
+}
+#louisamstrong1{
+    width: 100px;
+    display: none;
+    cursor: pointer;
+}
+#davidguetta1{
+    width: 100px;
+    display: none;
+    cursor: pointer;
+}
+#bobmarley1{
+    width: 100px;
+    display: none;
+    cursor: pointer;
+}
+#playlistpreferer{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+#maincitation{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#random{
+    margin-top: 100px;
+    width: 60%;
+    margin: auto;
+    border: solid 3px grey;
+    height: 500px;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+#cit{
+    font-size: 24px;
+    margin: auto;
+    width: 70%;
+    height: 250px;
+    padding: 50px 0px;
+    text-align: center;
+}
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+#auteur{
+    font-size: 24px;
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+}
+#btncitation{
+    text-align: center;
+    border-radius: 25px;
+    padding: 5px;
+    width: 150px;
+    margin: auto;
+    border: solid 2px rgb(189, 186, 186);
+}
+#boutonscit{
+    display: flex;
+    justify-content: space-evenly;
+}
+#btncitation2{
+    text-align: center;
+    border-radius: 25px;
+    padding: 5px;
+    width: 150px;
+    margin: auto;
+    border: solid 2px rgb(189, 186, 186);
+}
+#btn:hover{
+    background-color: rgb(189, 186, 186);
+}
+
+#titrebilleterie{
+    text-align: center;
+    border: 2px solid black;
+}
+
+#reglageafficheun{
+    width: 1400px;
+}
+
+#afficheun{
+    display: flex;
+    justify-content: center;
+}
+
+#parentcreationbilletterie{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+#signes{
+    display: flex;
+    justify-content: center;
+}
+
+ #moins{
+    padding-right: 50px;
+ }
+
+ #billets{
+    border-bottom: 1px solid black;
+ }
+
+ #reglagetotal{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    align-items: center;
+ }
+
+ #casetotal{
+    border: 1px solid black;
+    padding: 20px;
+    margin-left: 16px;
+ }
+
+ #total{
+    border-bottom: 1px solid black;
+ }
