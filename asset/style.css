@@ -62,3 +62,22 @@ h1{
     display: flex;
     justify-content: center;
 }
+
+#parentcreationbilletterie{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+#signes{
+    display: flex;
+    justify-content: center;
+}
+
+ #moins{
+    padding-right: 50px;
+ }
+
+ #billets{
+    border-bottom: 1px solid black;
+ }
