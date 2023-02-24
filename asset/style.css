@@ -4,6 +4,28 @@
     align-items: center;
     background-color: rgb(32, 135, 186);
 }
+#liencita{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 5em 0em;
+    line-height: 4em;
+    border: solid 2px grey;
+    border-radius: 2em;
+}
+#btncita{
+    width: 20%;
+    border: solid 2px grey;
+    margin: auto;
+    border-radius: 5em;
+}
+#btncita:hover{
+    background-color: grey;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
 
 #divh2{
     display: flex;
@@ -95,7 +117,7 @@
 }
 
  #moins{
-    padding-right: 50px;
+    margin-right: 50px;
  }
 
  #billets{
