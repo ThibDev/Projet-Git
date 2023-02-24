@@ -23,6 +23,15 @@ document.getElementById('btncitation2').addEventListener("click", function(){
         return citations.push(cit);
     }   
 });
+document.getElementById('btncitation2').addEventListener("click", function(){
+    let aut = prompt("Ajoutez vôtre nom d'auteur");
+    if(aut == ""){
+        let aut = prompt("Ajoutez vôtre nom d'auteur (Rentrez un auteur complet)");
+        return auteur.push(aut);
+    }else{
+        return auteur.push(aut);
+    }   
+});
 document.getElementById('btncitation2').addEventListener('mouseover',()=>{
     document.getElementById("btncitation2").style.cursor= "pointer";
 });
