@@ -158,12 +158,18 @@ h1{
 }
 #cit{
     font-size: 24px;
-    font-family: sans-serif;
     margin: auto;
     width: 70%;
     height: 250px;
     padding: 50px 0px;
     text-align: center;
+}
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
 }
 #auteur{
     font-size: 24px;
