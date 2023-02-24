@@ -1,0 +1,15 @@
+#genremusique{
+    width: 100%;
+    justify-content: space-evenly;
+    display: flex;
+}
+.rap{
+    list-style: none;
+   border-bottom: solid;
+   border-width: 1px;
+   border-color: red;
+   cursor: pointer;
+}
+.rap:hover{
+    color: red;
+}
