@@ -1,3 +1,61 @@
+
+#divh1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(32, 135, 186);
+}
+
+#divh2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#divclassement{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#conte1{
+    background-image: url(../../static/image/topfrance.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#conte2{
+    background-image: url(../../static/image/topUSA.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#conte3{
+    background-image: url(../../static/image/topbresil.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#conte4{
+    background-image: url(../../static/image/topuk.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#conte5{
+    background-image: url(../../static/image/toprdc.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#conte6{
+    background-image: url(../../static/image/topcame.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.conte{
+    height: 300px;
+}
+
 #ul{
     display: flex;
     list-style: none;
