@@ -1,0 +1,13 @@
+#titrebilleterie{
+    text-align: center;
+    border: 2px solid black;
+}
+
+#reglageafficheun{
+    width: 1400px;
+}
+
+#afficheun{
+    display: flex;
+    justify-content: center;
+}
