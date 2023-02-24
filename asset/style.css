@@ -32,7 +32,7 @@
 #conte3{
     background-image: url(../../static/image/topbresil.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100%
 }
 
 #conte4{
@@ -54,7 +54,25 @@
 }
 .conte{
     height: 300px;
+    width: 200px;
 }
+
+.conte:hover {
+    -ms-transform: scale(1.5);
+    
+    -webkit-transform: scale(1.5);
+    
+    transform: scale(1.5);
+}
+
+.trois{
+    color: yellow;
+}
+
+#imgsection1{
+    width: 100%;
+}
+
 
 #ul{
     display: flex;
