@@ -13,6 +13,56 @@
 .rap:hover{
     color: red;
 }
+#keyglock{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#acdc{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#louisamstrong{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#davidguetta{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#bobmarley{
+    width: 0px;
+    height: 0px;
+    text-align: center;
+    background-color: rgb(213, 213, 213);
+}
+#keyglock1{
+    width: 100px;
+    display: none;
+}
+#acdc1{
+    width: 100px;
+    display: none;
+}
+#louisamstrong1{
+    width: 100px;
+    display: none;
+}
+#davidguetta1{
+    width: 100px;
+    display: none;
+}
+#bobmarley1{
+    width: 100px;
+    display: none;
+}
 #maincitation{
     margin-top: 100px;
 }
