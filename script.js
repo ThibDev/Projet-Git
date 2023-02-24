@@ -12,4 +12,4 @@ document.getElementById('btncitation').addEventListener("click", function() {
 });
 document.getElementById('btncitation').addEventListener('mouseover',()=>{
     document.getElementById("btncitation").style.cursor= "pointer";
-})
+});
